@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]. I deployed this app on AWS as well! Available here: https://master.d16mq47d5r00zw.amplifyapp.com
 
 ## Available Scripts
 
